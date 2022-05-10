@@ -21,6 +21,7 @@ header .container { /* pesquise sobre esses abaixo! */
     flex-direction: row;
     align-items: center;
     justify-content: space-between; /* cria espaço entre o <h2> "Netflix" e a <nav> que são "Inicio", "Series" etc*/
+    padding-right: 20px;
 }
 
 header .logo {
