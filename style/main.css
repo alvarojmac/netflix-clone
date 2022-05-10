@@ -40,10 +40,6 @@ header nav a:hover {
     color: #fff;
 }
 
-h5 {
-    color: gray;
-}
-
 /* filme principal */
 .filme-principal {
     font-size: 16px;
@@ -69,6 +65,14 @@ h5 {
     margin-top: 15%;
     font-size: 60px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.especificacoes {
+    color: gray;
+}
+
+.botoes {
+    padding: 20px 0;
 }
 
 .botao {
